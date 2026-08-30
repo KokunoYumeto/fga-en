@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Foundations of Algebraic Geometry (FGA) — Maintained English Edition"
+message: "Please cite the language-specific Zenodo record."
+type: book
+authors:
+  - family-names: Grothendieck
+    given-names: Alexandre
+version: "2026-08-30-r1"
+date-released: "2026-08-30"
+doi: "10.5281/zenodo.22168016"
+url: "https://github.com/KokunoYumeto/fga-en"

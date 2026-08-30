@@ -1,0 +1,22 @@
+{
+  "title": "Foundations of Algebraic Geometry (FGA) — Maintained English Edition",
+  "description": "The canonical public lineage for the independent maintained English FGA translation.",
+  "creators": [
+    {
+      "name": "Grothendieck, Alexandre"
+    }
+  ],
+  "access_right": "open",
+  "license": "notspecified",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "language": "eng",
+  "version": "2026-08-30-r1",
+  "related_identifiers": [
+    {
+      "resource_type": "publication-other",
+      "identifier": "https://doi.org/10.5281/zenodo.22083916",
+      "relation": "isDerivedFrom"
+    }
+  ]
+}
